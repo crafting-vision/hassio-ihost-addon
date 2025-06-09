@@ -38,6 +38,6 @@ schema:
   matter_server_version: str?
   matter_sdk_wheels_version: str?
 ports:
-  5580/tcp: null
+  5580/tcp: 5580
 stage: stable
 startup: services
