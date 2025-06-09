@@ -1,5 +1,5 @@
 {
-    "name": "Hassio iHost Add-ons",
-    "url": "https://github.com/iHost-Open-Source-Project/hassio-ihost-addon",
-    "maintainer": "zetao.zheng <zetao.zheng@coolkit.cn>"
+    "name": "Hassio iHost Add-ons Test",
+    "url": "https://github.com/crafting-vision/hassio-ihost-addon",
+    "maintainer": "yuanze.cui <yuanze.cui@coolkit.cn>"
 }
